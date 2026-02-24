@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Credentials (never commit)
+credentials.json
+*.pem
+*.key
+
+# Logs
+*.log
+
+# Local testing
+.test/
+tmp/
