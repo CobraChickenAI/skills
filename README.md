@@ -1,4 +1,4 @@
-# Cobra Chicken AI Skills
+# CobraChickenAI Skills
 
 A collection of [Agent Skills](https://agentskills.io) for AI assistants.
 
@@ -27,4 +27,4 @@ MIT -- see [LICENSE](LICENSE)
 
 ---
 
-*[Cobra Chicken AI](https://github.com/CobraChickenAI)*
+*[CobraChickenAI](https://github.com/CobraChickenAI)*
