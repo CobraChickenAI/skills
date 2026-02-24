@@ -53,4 +53,4 @@ MIT -- see [LICENSE](../LICENSE)
 
 ---
 
-*Built by [Cobra Chicken AI](https://github.com/CobraChickenAI)*
+*Built by [CobraChickenAI](https://github.com/CobraChickenAI)*
